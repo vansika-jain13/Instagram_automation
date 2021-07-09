@@ -1,0 +1,4 @@
+instapy
+geckodriver-autoinstaller
+idna<3,>=2.5
+configparser<4,>=3.5
